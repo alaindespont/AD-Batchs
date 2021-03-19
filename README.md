@@ -1,7 +1,7 @@
 # AD-Batchs
 Avec exemples sur https://alaindespont.github.io/
-- MeanTimeToShutdown
+- Mean Time To Shutdown
 
 Sans exemples :
 - Deploy
-- EffacerLesFichiersRecents
+- Effacer les fichiers recents
